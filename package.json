@@ -1,0 +1,39 @@
+{
+  "name": "rnbr",
+  "version": "1.0.0",
+  "description": "random number generator in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/rnbr.git"
+  },
+  "keywords": [
+    "rnbr",
+    "random",
+    "number",
+    "generator",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/hex-to-hsl-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/rnbr#readme",
+  "bin": {
+    "rnbr": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
